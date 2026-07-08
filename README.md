@@ -252,14 +252,14 @@ This project helps users learn:
 
 # 👨‍💻 Developer
 
-**Sachin Kumar Singh**
+**Lingala pavan kumar**
 
 B.Sc. Information Technology
 
 Lovely Professional University
 
 GitHub:
-https://github.com/sachinsingh12401390
+https://github.com/pavan12403404
 
 ---
 
